@@ -69,3 +69,19 @@ Contributions are welcome! To contribute:
 2. Create a new branch for your feature or bug fix.
 3. Make and commit your changes.
 4. Push to your fork and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions, suggestions, or collaboration inquiries, please reach out to:
+
+- **Email**: youremail@example.com
+- **GitHub**: [yourusername](https://github.com/yourusername)
+- **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourprofile/)
+
+## Acknowledgments
+
+Special thanks to the open-source community and contributors who have helped improve this project.
