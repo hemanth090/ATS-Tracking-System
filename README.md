@@ -34,13 +34,13 @@
     pip install -r requirements.txt
 
 3. Create a .env file in the root directory and add your Google API key:
-  '''bash
+  ```bash
     GOOGLE_API_KEY=your_api_key_here
 
 ## Usage
 
 1. Run the Streamlit application:
-  '''bash
+  ```bash
       streamlit run app.py
 2. Open your browser and navigate to http://localhost:8501.
 3. Input the job description and upload your resume in PDF format.
