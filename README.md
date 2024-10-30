@@ -43,11 +43,18 @@
 1. Run the Streamlit application:
   ```bash
       streamlit run app.py
+
 2. Open your browser and navigate to http://localhost:8501.
+
 3. Input the job description and upload your resume in PDF format.
+
 4. Click on "Tell Me About the Resume" or "Percentage Match" to get the evaluation.
 
 ## Code Structure
+
+- `app.py: The main Streamlit application file.`
+- `.env: Environment variables for API keys and configurations.`
+- `requirements.txt: Python package dependencies.`
 
 
 
