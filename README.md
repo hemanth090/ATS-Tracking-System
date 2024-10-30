@@ -84,4 +84,4 @@ For questions, suggestions, or collaboration inquiries, please reach out to:
 
 ## Acknowledgments
 
-Special thanks to the open-source community and contributors who have helped improve this project.
+Special thanks to the Krish naik Sir who have helped improve this project.
