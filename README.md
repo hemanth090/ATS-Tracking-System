@@ -78,9 +78,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions, suggestions, or collaboration inquiries, please reach out to:
 
-- **Email**: youremail@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourprofile/)
+- **Email**: naveenhemanth4@example.com
+- **GitHub**: [yourusername](https://github.com/hemanth090)
+- **LinkedIn**: [Your Name](https://www.linkedin.com/in/hemanthkokkonda/)
 
 ## Acknowledgments
 
