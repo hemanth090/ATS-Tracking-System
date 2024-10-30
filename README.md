@@ -70,14 +70,15 @@ Contributions are welcome! To contribute:
 3. Make and commit your changes.
 4. Push to your fork and submit a pull request.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Contact
 
 For questions, suggestions, or collaboration inquiries, please reach out to:
 
-- **Email**: naveenhemanth4@example.com
+- **Email**: naveenhemanth4@gmail.com
 - **GitHub**: [hemanth090](https://github.com/hemanth090)
-- **LinkedIn**: [Hemanth Kokkonda](https://www.linkedin.com/in/hemanthkokkonda/)
+- **LinkedIn**: [hemanthkokkonda](https://www.linkedin.com/in/hemanthkokkonda/)
 
-## Acknowledgments
-
-Special thanks to the Krish naik Sir who have helped improve this project.
