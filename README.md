@@ -37,7 +37,7 @@
   '''bash
     GOOGLE_API_KEY=your_api_key_here
 
-#Usage
+##Usage
 
 1. Run the Streamlit application:
   '''bash
@@ -46,7 +46,7 @@
 3. Input the job description and upload your resume in PDF format.
 4. Click on "Tell Me About the Resume" or "Percentage Match" to get the evaluation.
 
-#Code Structure
+##Code Structure
 
 
 
